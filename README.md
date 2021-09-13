@@ -2,17 +2,9 @@
  T-match Antenna Tuner for QRP, IC-705
 
 
-<<<<<<< Updated upstream
-- Schematic Diagram
-
--- QRP_ANT_TUNER_sch.png
-
--- QRP_ANT_TUNER.CE3
-=======
 * Schematic Diagram
 	* QRP_ANT_TUNER_sch.png
 	* QRP_ANT_TUNER.CE3
->>>>>>> Stashed changes
 
 * Construction 
 	* construction/QRP_ANT_TUNER_kawara_senbei.dxf	: DXF
