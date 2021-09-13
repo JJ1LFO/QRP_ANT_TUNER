@@ -14,3 +14,6 @@
 
 - Simulation
 	spice/ : LTspice
+
+- Detail
+	Please visit https://jj1lfo.fc2.net/blog-entry-1.html (sorry Japanese only. But you can use Google translate, etc.) 
