@@ -3,8 +3,8 @@
 
 
 - Schematic Diagram
-	-- QRP_ANT_TUNER_sch.png
-	-- QRP_ANT_TUNER.CE3
+-- QRP_ANT_TUNER_sch.png
+-- QRP_ANT_TUNER.CE3
 
 - Construction 
 	-- construction/QRP_ANT_TUNER_kawara_senbei.dxf	: DXF
